@@ -1,2 +1,2 @@
-# soomark.github.io
+# https://soomark.github.io
 my_website
